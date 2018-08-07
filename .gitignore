@@ -1,0 +1,9 @@
+#netbeans files
+./nbproject/
+
+#executables
+*.exe
+*.out
+
+#object files
+*.o
