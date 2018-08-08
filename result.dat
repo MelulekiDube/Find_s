@@ -1,0 +1,12 @@
+h <- {0 0 0 0 0 0}
+h <- {Sunny Warm Normal Strong Warm Same}
+h <- {Sunny Warm ? Strong Warm Same}
+h <- {Sunny Warm ? Strong ? ?}
+h <- {Sunny Warm ? ? ? ?}
+
+******************************************
+Testing with: {Sunny Warm Normal Strong Warm Same}
+
+Yes
+******************************************
+We need: 5 examples to get the target hypothesis that means 1 at minimum need to be added
